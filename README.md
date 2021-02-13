@@ -1,2 +1,2 @@
 # bankconfigserver
-BankConfigServer
+Centralized Configuration Server for Bank Microservice
